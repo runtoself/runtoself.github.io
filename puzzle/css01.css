@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('hanyijielongtaohuayuan.ttf') format('truetype');
+}
+body{
+	background-image: url('炸鸡.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #6c0002;
+}
+h1{
+	font-family: 'MyFont', sans-serif;
+	color: #fff0d8
+}
