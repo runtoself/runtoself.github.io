@@ -1,0 +1,94 @@
+body{
+  background-color: #fafafa;
+}
+.image-container {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('RCD2.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#iamcool{
+  width: 150px;
+  height: 150px;
+  margin:100px 0px 0px 0px;
+}
+#logow{
+  width: 170px;
+  margin:0px 15px 0px 0px;
+}
+.container1 {
+  text-align: left;
+}
+.text1 {
+  display: inline-block;
+  text-align: left;
+}
+.runtob {
+  display: inline-block;
+  text-align: right;
+  width:300px;
+}
+.noxhx{
+  text-decoration: none;
+}
+.bjt{
+  display: inline-block;
+  padding: 5px 8px;
+  background-color: #fafafa;
+  letter-spacing:1px;
+  font-size: 20px;
+  font-weight: bold;
+  color:#1e1658;
+  text-decoration: none;
+  border: 1px solid #fafafa;
+  border-radius: 15px;
+}
+.bjt:hover {
+  background-color: #f6f6f6;
+  border: 3px solid #f6f6f6;
+}
+.bjt2{
+  letter-spacing:1px;
+  font-size: 20px;
+  font-weight: bold;
+  color:#1e1658;
+}
+.collapsible1 {
+  cursor: pointer;
+  user-select: none;
+}
+.content1 {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+.bdbb{
+  font-size: 16px;
+  letter-spacing:0.8px;
+  color:#404040;
+    text-decoration: none;
+    line-height: 0.5; /* 设置行距为1.5倍字体大小 */
+  display: block;  /* 将<a>标签变为块级元素 */
+}
+.bdbb:hover{
+    font-size: 17px;
+  color:#1e1658;
+}
+.bjt3{
+  display: inline-block;
+  padding: 5px 8px;
+  background-color: #fafafa;
+  letter-spacing:1px;
+  font-size: 16px;
+  color:#404040;
+  text-decoration: none;
+  border: 1px solid #fafafa;
+  border-radius: 12px;
+  margin:0px 0px 20px 15px;
+}
+.bjt3:hover {
+  background-color: #f6f6f6;
+  border: 3px solid #f6f6f6;
+}
